@@ -15,6 +15,9 @@
     "lint": "tsdx lint",
     "prepare": "tsdx build"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "husky": {
     "hooks": {
       "pre-commit": "tsdx lint"
