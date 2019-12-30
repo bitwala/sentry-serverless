@@ -30,11 +30,11 @@
   "devDependencies": {
     "@sentry/node": "5.10.2",
     "@types/aws-lambda": "8.10.39",
-    "@types/jest": "^24.0.25",
+    "@types/jest": "24.0.25",
     "aws-lambda": "1.0.4",
-    "husky": "^3.1.0",
-    "tsdx": "^0.12.1",
-    "tslib": "^1.10.0",
-    "typescript": "^3.7.4"
+    "husky": "3.1.0",
+    "tsdx": "0.12.1",
+    "tslib": "1.10.0",
+    "typescript": "3.7.4"
   }
 }

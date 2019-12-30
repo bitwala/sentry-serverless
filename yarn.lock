@@ -1059,7 +1059,7 @@
     "@types/istanbul-lib-coverage" "*"
     "@types/istanbul-lib-report" "*"
 
-"@types/jest@^24.0.25":
+"@types/jest@24.0.25":
   version "24.0.25"
   resolved "https://registry.yarnpkg.com/@types/jest/-/jest-24.0.25.tgz#2aba377824ce040114aa906ad2cac2c85351360f"
   integrity sha512-hnP1WpjN4KbGEK4dLayul6lgtys6FPz0UfxMeMQCv0M+sTnzN3ConfiO72jHgLxl119guHgI8gLqDOrRLsyp2g==
@@ -3015,7 +3015,7 @@ humanize-duration@^3.15.3:
   resolved "https://registry.yarnpkg.com/humanize-duration/-/humanize-duration-3.21.0.tgz#ae5dc7e67640770cbf6a8d03a5d1138d47c7ce38"
   integrity sha512-7BLsrQZ2nMGeakmGDUl1pDne6/7iAdvwf1RtDLCOPHNFIHjkOVW7lcu7xHkIM9HhZAlSSO5crhC1dHvtl4dIQw==
 
-husky@^3.1.0:
+husky@3.1.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/husky/-/husky-3.1.0.tgz#5faad520ab860582ed94f0c1a77f0f04c90b57c0"
   integrity sha512-FJkPoHHB+6s4a+jwPqBudBDvYZsoQW5/HBuMSehC8qDiCe50kpcxeqFoDSlow+9I6wg47YxBoT3WxaURlrDIIQ==
@@ -5805,7 +5805,7 @@ ts-jest@^24.0.2:
     semver "^5.5"
     yargs-parser "10.x"
 
-tsdx@^0.12.1:
+tsdx@0.12.1:
   version "0.12.1"
   resolved "https://registry.yarnpkg.com/tsdx/-/tsdx-0.12.1.tgz#b9a9ac9a627d927196d273e94b6a5aeadfdc8731"
   integrity sha512-DwfTE3HJ8mGmDGGuRnu/EwB3LBFy+fqchi1cc57eiylkYIaFtmslAqlixrkd0XZfOvaLQ1ZILGeXFJJeCFIDWw==
@@ -5877,7 +5877,7 @@ tsdx@^0.12.1:
     tslib "^1.9.3"
     typescript "^3.7.3"
 
-tslib@1.10.0, tslib@^1.10.0, tslib@^1.8.1, tslib@^1.9.0, tslib@^1.9.3:
+tslib@1.10.0, tslib@^1.8.1, tslib@^1.9.0, tslib@^1.9.3:
   version "1.10.0"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.10.0.tgz#c3c19f95973fb0a62973fb09d90d961ee43e5c8a"
   integrity sha512-qOebF53frne81cf0S9B41ByenJ3/IuH8yJKngAX35CmiZySA0khhkovshKK+jGCaMnVomla7gVlIcc3EvKPbTQ==
@@ -5918,7 +5918,7 @@ type-fest@^0.8.1:
   resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-0.8.1.tgz#09e249ebde851d3b1e48d27c105444667f17b83d"
   integrity sha512-4dbzIzqvjtgiM5rw1k5rEHtBANKmdudhGyBEajN01fEyhaAIhsoKNy6y7+IN93IfpFtwY9iqi7kD+xwKhQsNJA==
 
-typescript@^3.7.3, typescript@^3.7.4:
+typescript@3.7.4, typescript@^3.7.3:
   version "3.7.4"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.7.4.tgz#1743a5ec5fef6a1fa9f3e4708e33c81c73876c19"
   integrity sha512-A25xv5XCtarLwXpcDNZzCGvW2D1S3/bACratYBx2sax8PefsFhlYmkQicKHvpYflFS8if4zne5zT5kpJ7pzuvw==
