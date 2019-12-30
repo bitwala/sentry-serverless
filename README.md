@@ -40,3 +40,11 @@ The package is optimized and bundled with Rollup into multiple formats (CommonJS
 ### `yarn test`
 
 Runs the test watcher (Jest) in an interactive mode.
+
+## Release
+
+We use [np](https://github.com/sindresorhus/np) to release the package.
+
+```
+yarn release
+```

@@ -13,7 +13,8 @@
     "build": "tsdx build",
     "test": "tsdx test",
     "lint": "tsdx lint",
-    "prepare": "tsdx build"
+    "prepare": "tsdx build",
+    "release": "np"
   },
   "publishConfig": {
     "access": "public"
@@ -36,6 +37,7 @@
     "@types/jest": "24.0.25",
     "aws-lambda": "1.0.4",
     "husky": "3.1.0",
+    "np": "5.2.1",
     "tsdx": "0.12.1",
     "tslib": "1.10.0",
     "typescript": "3.7.4"
