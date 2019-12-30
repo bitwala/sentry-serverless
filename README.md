@@ -24,6 +24,17 @@ Sentry.init({
 export const hello = sentryHandler(async event => {
   throw new Error('asd');
 });
+
+// You can also pass some options that will be forwarded to sentry
+export const hello = sentryHandler(
+  async event => {
+    throw new Error('asd');
+  },
+  {
+    // Will be set using the sentry "setTags" method
+    tags: { myTag: 'myValue' },
+  }
+);
 ```
 
 ## Local Development
